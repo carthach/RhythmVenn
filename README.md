@@ -1,6 +1,8 @@
 RhythmVenn
 ==========
-- An area-proportional Venn/Euler visualiser for probabilistic rhythm generators
+An area-proportional Venn/Euler visualiser for probabilistic rhythm generators.
+
+![](https://github.com/carthach/rhythmvenn/blob/main/rhythmVenn.gif)
 
 Usage
 =====
